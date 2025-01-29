@@ -59,7 +59,9 @@ class UserHelper:
             words_title_count_all[card["title"]] += 1
             words_content_count_all[card["content"]] += 1
         
-        
+        #Aply a treshold to the emotions words and content
+        emo
+
         #create a graph of liked cards with emotion content and title as 
 
     def user_of_week():
